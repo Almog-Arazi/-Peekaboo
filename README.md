@@ -4,14 +4,14 @@ Welcome to **Peekaboo**, an innovative IoT project developed as part of Reichman
 
 
 
-  <img src="https://github.com/user-attachments/assets/68f32f41-488e-4e5c-bce9-e091206a9ce3" alt="Peekaboo Hardware Design" width="220" height="220">
+  <img src="https://github.com/user-attachments/assets/68f32f41-488e-4e5c-bce9-e091206a9ce3" alt="Peekaboo Hardware Design" width="500" height="300=0">
 
 
   <img src="https://github.com/user-attachments/assets/abf26227-2d8a-40fc-bcce-8d8a29d534ea" alt="Peekaboo Hardware Design" width="220" height="220">
 
 
 
-![Peekaboo Logo](https://github.com/user-attachments/assets/68f32f41-488e-4e5c-bce9-e091206a9ce3)
+
 
 ## Introduction
 
