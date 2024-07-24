@@ -12,7 +12,15 @@ Our site: https://lihirosenwasser.wixsite.com/milab
 <img src="https://github.com/user-attachments/assets/ba1cb909-6941-447c-b628-ddab46197caf" alt="Peekaboo " width="600" height="400">
 
 
+## Demonstration Video
 
+You can watch a demonstration of the Peekaboo project in action by following this link:
+
+- [Watch the Peekaboo Demo Video on YouTube](https://youtu.be/OVUpmxSjGho)
+  
+<a href="https://youtu.be/OVUpmxSjGho" target="_blank">
+  <img src="https://img.youtube.com/vi/OVUpmxSjGho/maxresdefault.jpg" alt="Peekaboo Demo Video" width="300" height="169">
+</a>
 
 
 ## Introduction
