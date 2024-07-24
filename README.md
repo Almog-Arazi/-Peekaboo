@@ -2,12 +2,14 @@
 
 Welcome to **Peekaboo**, an innovative IoT project developed as part of Reichman University's milab - Media Innovation Lab. Peekaboo is a smart car mirror designed to encourage eye contact between parent and child during car journeys, promoting engagement and interaction in a unique and effective way.
 
+our site: https://lihirosenwasser.wixsite.com/milab
+
+<img src="https://github.com/user-attachments/assets/68f32f41-488e-4e5c-bce9-e091206a9ce3" alt="Peekaboo Hardware Design" width="600" height="400">
 
 
-  <img src="https://github.com/user-attachments/assets/68f32f41-488e-4e5c-bce9-e091206a9ce3" alt="Peekaboo Hardware Design" width="600" height="400">
-
-
-  <img src="https://github.com/user-attachments/assets/abf26227-2d8a-40fc-bcce-8d8a29d534ea" alt="Peekaboo Hardware Design" width="600" height="400">
+<img src="https://github.com/user-attachments/assets/abf26227-2d8a-40fc-bcce-8d8a29d534ea" alt="Peekaboo " width="600" height="400">
+  
+<img src="https://github.com/user-attachments/assets/ba1cb909-6941-447c-b628-ddab46197caf" alt="Peekaboo " width="600" height="400">
 
 
 
@@ -55,4 +57,16 @@ Peekaboo is more than just a mirror. It's an interactive tool that strengthens t
 - **MediaPipe**: Install using `pip install mediapipe`
 
 
+# Inspiration and Credits
 
+The development of the Gaze Direction Estimation Algorithm in the Peekaboo project was inspired by the innovative work of a student from Stevens Institute of Technology in Hoboken, New Jersey. This remarkable algorithm focuses on detecting the precise direction of the pupils rather than analyzing the entire face, which significantly enhances accuracy and performance in real-world applications.
+
+The original project laid a strong foundation for our implementation, offering valuable insights into pupil tracking techniques. The student behind this work has provided a comprehensive document that explains the architecture and methodology in detail. You can access this document and explore the original project on GitHub:
+
+- **Architecture Document**: [View the Document](https://github.com/matthullstrung/gaze-estimation)
+- **GitHub Repository**: [Gaze Estimation Project](https://github.com/matthullstrung/gaze-estimation)
+
+Additionally, for a better understanding of the algorithm's functionality, you can watch a demonstration video here:  
+- **Demonstration Video**: [Watch the Video](https://www.youtube.com/watch?v=BFOO-_9tMn4)
+
+The inspiration and knowledge gained from this project have been instrumental in shaping the design and functionality of Peekaboo, allowing us to create a smart car mirror that effectively enhances parent-child interaction through advanced gaze tracking technology.
