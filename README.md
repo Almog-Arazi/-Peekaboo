@@ -22,7 +22,6 @@ You can watch a demonstration of the Peekaboo project in action by following thi
   <img src="https://img.youtube.com/vi/OVUpmxSjGho/maxresdefault.jpg" alt="Peekaboo Demo Video" width="300" height="169">
 </a>
 
-
 ## Introduction
 
 Peekaboo is more than just a mirror. It's an interactive tool that strengthens the bond between parents and children by enhancing their interaction during car rides. With its advanced pupil detection sensors, Peekaboo monitors the child's gaze and ensures that eye contact is maintained. If eye contact is lost for more than 60 seconds, the mirror uses precise motorized movements to regain attention, keeping the child engaged without causing discomfort.
