@@ -3,14 +3,13 @@
 Welcome to **Peekaboo**, an innovative IoT project developed as part of Reichman University's milab - Media Innovation Lab. Peekaboo is a smart car mirror designed to encourage eye contact between parent and child during car journeys, promoting engagement and interaction in a unique and effective way.
 
 
-<p align="center">
+
   <img src="https://github.com/user-attachments/assets/68f32f41-488e-4e5c-bce9-e091206a9ce3" alt="Peekaboo Hardware Design" width="220" height="220">
-</p>
-<p align="center">
+
+
   <img src="https://github.com/user-attachments/assets/abf26227-2d8a-40fc-bcce-8d8a29d534ea" alt="Peekaboo Hardware Design" width="220" height="220">
-</p>
-![1718980325551](https://github.com/user-attachments/assets/68f32f41-488e-4e5c-bce9-e091206a9ce3)
-![image](https://github.com/user-attachments/assets/abf26227-2d8a-40fc-bcce-8d8a29d534ea)
+
+
 
 ![Peekaboo Logo](https://github.com/user-attachments/assets/68f32f41-488e-4e5c-bce9-e091206a9ce3)
 
