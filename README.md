@@ -7,6 +7,7 @@ Welcome to **Peekaboo**, an innovative IoT project developed as part of Reichman
 ![1718980325551](https://github.com/user-attachments/assets/68f32f41-488e-4e5c-bce9-e091206a9ce3)
 ![image](https://github.com/user-attachments/assets/abf26227-2d8a-40fc-bcce-8d8a29d534ea)
 
+![Peekaboo Logo](https://github.com/user-attachments/assets/68f32f41-488e-4e5c-bce9-e091206a9ce3)
 
 ## Introduction
 
