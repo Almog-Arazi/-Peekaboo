@@ -18,9 +18,7 @@ You can watch a demonstration of the Peekaboo project in action by following thi
 
 - [Watch the Peekaboo Demo Video on YouTube](https://youtu.be/OVUpmxSjGho)
   
-<a href="https://youtu.be/OVUpmxSjGho" target="_blank">
-  <img src="https://img.youtube.com/vi/OVUpmxSjGho/maxresdefault.jpg" alt="Peekaboo Demo Video" width="300" height="169">
-</a>
+
 
 ## Introduction
 
